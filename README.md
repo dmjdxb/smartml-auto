@@ -1,6 +1,4 @@
-# SmartML Auto 🤖
 
-**Intelligent AutoML that automatically analyzes your data, engineers features, and selects the best machine learning models.**
 
 ## Installation
 
